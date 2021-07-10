@@ -1,1 +1,6 @@
-# counter-javascript-project
+Side Hustle Internship
+
+
+Week 3 Task
+
+
